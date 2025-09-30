@@ -1,0 +1,31 @@
+Test for array of 10 elements
+InsertionSort,10,random,1,10401,28,0,95
+InsertionSort,10,random,2,5200,32,0,89
+InsertionSort,10,random,3,4899,32,0,75
+InsertionSort,10,random,4,4300,31,0,112
+InsertionSort,10,random,5,4501,32,0,77
+Test for array of 100 elements
+InsertionSort,100,random,1,516201,633,0,5172
+InsertionSort,100,random,2,63501,626,0,5711
+InsertionSort,100,random,3,57901,630,0,5225
+InsertionSort,100,random,4,56800,624,0,5537
+InsertionSort,100,random,5,57300,634,0,5927
+Test for array of 1000 elements
+InsertionSort,1000,random,1,767200,9582,0,500947
+InsertionSort,1000,random,2,351299,9608,0,499743
+InsertionSort,1000,random,3,387400,9605,0,496452
+InsertionSort,1000,random,4,357699,9608,0,503807
+InsertionSort,1000,random,5,333101,9576,0,523341
+Test for array of 10000 elements
+InsertionSort,10000,random,1,12835301,128985,0,50323966
+InsertionSort,10000,random,2,12285299,128931,0,50001730
+InsertionSort,10000,random,3,12049100,129002,0,50007813
+InsertionSort,10000,random,4,11997399,128974,0,49598055
+InsertionSort,10000,random,5,12190000,129033,0,50192896
+Test for array of 100000 elements
+InsertionSort,100000,random,1,504673200,1622759,0,5009556850
+InsertionSort,100000,random,2,173113099,1622706,0,4979961801
+InsertionSort,100000,random,3,169916200,1622964,0,4995441339
+InsertionSort,100000,random,4,169482400,1622710,0,4994321267
+InsertionSort,100000,random,5,169948400,1623042,0,5014183823
+Test for array of 1000000 elements works hours, then it means that insertionsort is unproductive in arrays with the length of 1 million elements
